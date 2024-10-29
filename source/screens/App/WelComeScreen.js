@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, Image, Text, TouchableOpacity, Dimensions,StyleSheet } from 'react-native';
 import { fontFamily } from '../../constant/fontFamily';
-import { colors } from '../../constant/colors';
 
 
 const WelComeScreen = ({ navigation }) => {
